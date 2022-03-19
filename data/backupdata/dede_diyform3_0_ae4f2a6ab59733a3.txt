@@ -1,0 +1,2 @@
+INSERT INTO `dede_diyform3` VALUES('1','0','10004','0','1200','2015/08/13','1','3123@126.com');
+INSERT INTO `dede_diyform3` VALUES('2','0','成华区','加拿大123','3100','2015/08/22','立即通知','asddasd@.com');

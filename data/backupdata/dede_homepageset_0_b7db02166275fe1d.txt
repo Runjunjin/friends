@@ -1,0 +1,3 @@
+INSERT INTO `dede_homepageset` VALUES('moban/index.htm','../index.html','0');
+INSERT INTO `dede_homepageset` VALUES('moban/index.htm','../index.html','0');
+INSERT INTO `dede_homepageset` VALUES('moban/index.htm','../index.html','0');
