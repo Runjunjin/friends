@@ -1,1 +1,0 @@
-INSERT INTO `dede_member_5` VALUES('2');
